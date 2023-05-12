@@ -2,13 +2,8 @@ from __future__ import annotations
 
 from aqt import gui_hooks, mw
 from aqt.qt import *
-from aqt.utils import tooltip
-from aqt.utils import showInfo
-from aqt.utils import showWarning
 
 from pynput.keyboard import Controller
-
-
 
 
 # Define the action to perform when the option is clicked
@@ -20,7 +15,6 @@ def pressAddNewCard(deck_id):
     keyboard = Controller()
     keyboard.press('a')
     keyboard.release('a')
-
 
 
 # Define the function to add the option to the menu
