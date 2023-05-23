@@ -9,7 +9,7 @@
 
 
 <p align="center">
-    <img src="https://derdemystifier.github.io/AnkiNewCardBtn/images/capture.png">
+    <img src="https://derdemystifier.github.io/AnkiNewCardBtn/images/capture.jpg">
 </p>
 
 Normally, you would need to click on a Deck to open it (which takes time) and then click 'Add'. Now, you don't have to anymore.
