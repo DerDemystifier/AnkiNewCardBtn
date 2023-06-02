@@ -7,12 +7,20 @@
 
 
 
-
 <p align="center">
-    <img src="https://derdemystifier.github.io/AnkiNewCardBtn/images/capture.jpg">
+	<img src="docs/images/capture.jpg">
 </p>
 
-Normally, you would need to click on a Deck to open it (which takes time) and then click 'Add'. Now, you don't have to anymore.
+Before, If you needed to add a new card in another deck, you have to :
+1. Click `Decks` to go back to the deck list.
+2. Click on a Deck to open it (which takes time to load the deck).
+3. Click 'Add' to open the note editor.
+
+With this addon, you can do that right from the deck list. Just :
+1. Click 'Add new card' to open the note editor.
+
+This saves time and the hassle of going back and forth if you add cards to multiple decks (like me).
+
 
 ## Installation
 

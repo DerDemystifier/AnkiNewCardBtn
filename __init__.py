@@ -2,7 +2,7 @@ from __future__ import annotations
 
 from aqt import gui_hooks, mw
 from aqt.addcards import AddCards
-from aqt.qt import *
+from aqt.qt import QAction
 
 
 # Define the action to perform when the option is clicked
